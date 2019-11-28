@@ -32,7 +32,7 @@ h2 {
   text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
 }
 
-.ad-wrap {
+.wrap {
   margin-left: auto;
   margin-right: auto;
   padding: 10px 0;
@@ -43,7 +43,7 @@ h2 {
   border-top: 1px solid #ccc;
 }
 
-.ad-wrap::before {
+.wrap::before {
   content: "Advertisement";
   left: 50%;
   padding: 0 .5em;
@@ -59,7 +59,7 @@ h2 {
   font-family: sans-serif;
 }
 
-.ad {
+.da {
   display: block;
   height: 240px;
   width: 320px;
